@@ -1,0 +1,21 @@
+course_id,course_name,category,difficulty,duration_hours,rating
+1,Python for Beginners,Programming,Beginner,20,4.6
+2,Advanced Python,Programming,Advanced,35,4.7
+3,Machine Learning,Machine Learning,Intermediate,40,4.8
+4,Deep Learning,Deep Learning,Advanced,50,4.7
+5,Data Science Fundamentals,Data Science,Beginner,25,4.5
+6,SQL and Database Management,Database,Intermediate,30,4.6
+7,Web Development,Web Development,Beginner,35,4.4
+8,Cloud Computing,Cloud,Intermediate,40,4.5
+9,Data Visualization,Data Science,Beginner,20,4.7
+10,Artificial Intelligence,Artificial Intelligence,Advanced,45,4.8
+11,Statistics for Data Science,Data Science,Intermediate,30,4.6
+12,Java Programming,Programming,Intermediate,35,4.5
+13,Frontend Development,Web Development,Beginner,28,4.4
+14,Natural Language Processing,Artificial Intelligence,Advanced,45,4.7
+15,Computer Vision,Artificial Intelligence,Advanced,42,4.8
+16,Excel for Data Analysis,Data Science,Beginner,18,4.5
+17,Power BI Dashboard,Data Science,Intermediate,25,4.6
+18,Python Data Analysis,Data Science,Intermediate,32,4.7
+19,Cyber Security Fundamentals,Cyber Security,Beginner,30,4.5
+20,DevOps Fundamentals,Cloud,Intermediate,38,4.6
