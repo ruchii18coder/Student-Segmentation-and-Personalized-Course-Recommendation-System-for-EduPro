@@ -1,0 +1,11 @@
+user_id,name,age,gender,education_level,city,study_hours,average_score,course_completion_rate,courses_enrolled
+1,Rahul Sharma,20,Male,Undergraduate,Bhubaneswar,6.5,82,78,4
+2,Priya Singh,21,Female,Undergraduate,Cuttack,5.0,74,68,3
+3,Aman Kumar,19,Male,Undergraduate,Ranchi,3.5,58,45,2
+4,Ananya Das,22,Female,Postgraduate,Bhubaneswar,8.0,91,92,6
+5,Rohit Patel,23,Male,Postgraduate,Ahmedabad,4.0,65,55,3
+6,Neha Gupta,20,Female,Undergraduate,Delhi,7.0,86,82,5
+7,Arjun Mehta,21,Male,Undergraduate,Mumbai,2.5,48,35,2
+8,Sneha Mishra,22,Female,Postgraduate,Pune,6.0,79,75,4
+9,Vivek Singh,20,Male,Undergraduate,Jaipur,4.5,67,60,3
+10,Pooja Nair,23,Female,Postgraduate,Bengaluru,8.5,94,95,7
