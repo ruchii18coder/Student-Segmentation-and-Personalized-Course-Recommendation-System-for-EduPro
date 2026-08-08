@@ -1,0 +1,16 @@
+teacher_id,teacher_name,department,subject,experience_years,qualification,rating
+1,Dr. Amit Sharma,Computer Science,Python,8,PhD,4.7
+2,Dr. Priya Singh,Data Science,Machine Learning,7,PhD,4.8
+3,Rahul Verma,Computer Science,Web Development,5,M.Tech,4.5
+4,Ananya Das,Data Science,Data Analytics,6,M.Tech,4.6
+5,Dr. Vikram Patel,Artificial Intelligence,Deep Learning,10,PhD,4.9
+6,Neha Gupta,Database,SQL,4,M.Tech,4.5
+7,Arjun Mehta,Cloud Computing,Cloud Computing,6,M.Tech,4.6
+8,Sneha Mishra,Data Science,Data Visualization,5,M.Sc,4.7
+9,Rohit Kumar,Cyber Security,Cyber Security,7,M.Tech,4.6
+10,Pooja Nair,Artificial Intelligence,Natural Language Processing,8,PhD,4.8
+11,Vivek Singh,Computer Science,Java Programming,5,M.Tech,4.4
+12,Kavita Joshi,Data Science,Statistics,6,M.Sc,4.6
+13,Manish Rao,Cloud Computing,DevOps,7,M.Tech,4.5
+14,Riya Kapoor,Web Development,Frontend Development,4,MCA,4.5
+15,Aditya Das,Artificial Intelligence,Computer Vision,9,PhD,4.8
